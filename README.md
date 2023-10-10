@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s4rv4gy4
-- 👀 I’m interested in `security, web3.0, red-team, scalability, cloud!`.
+- 👀 I’m interested in `devx, cloud, web3, intel, security, red-team!`.
 - 🌱 I’m currently learning `golang, & typescript`.
 - 💞️ I’m looking to collaborate on `security related OSS`.
 - 📫 How to reach me `linkedin.com/in/iamsarvagyaa`
